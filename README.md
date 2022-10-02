@@ -11,3 +11,5 @@ It is prohibited to rig an application of which one is not the author, just as i
 
 ### [+] Prerequisites
 <li><a href="https://f-droid.org/en/packages/com.termux/">Termux</a></li>
+<li><a href="https://apk-editor.fr.uptodown.com/android/telecharger"> Apkeditor</a></li>
+<li><a href="">
