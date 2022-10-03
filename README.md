@@ -40,5 +40,12 @@ Once installed, u can run Hidden-Venom from any repository with the single comma
 <br>
 ![img2](img2.jpg)
 
+### What is new in 2.1
+   •Encoders:
+<p textalign="center">You can now use encoders for your payload in order to escape antiviruses</p>
+
+   •Check Update:
+<p textalign="center">The program checks at each start whether there are new updates.</p>
+
 ### Note
 I'm working on a project with <a href="https://github.com/spurpositivity">Positive Vibes</a> and <a href="https://github.com/Anon7711">Anon771</a>. Please take a minute and star <a href="https://github.com/spurpositivity/UXV-INC-">our repository</a>.
