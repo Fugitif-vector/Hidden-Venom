@@ -25,9 +25,9 @@ To use Hidden-Venom on ur terminal, install it with the following commands:
 <li><code> git clone https://github.com/Fugitif-vector/Hidden-Venom</code></li>
 <li><code> cd Hidden-Venom</li></code>
 <li><code> chmod +x *</li></code>
-<li><code> bash setup</li></code>
+<li><code> bash setup.sh</li></code>
 <i> Or use the simple command</i>
-<li><code> apt update; apt upgrade; pkg install python -y; pkg install git -y; git clone https://github.com/Fugitif-vector/Hidden-Venom; cd Hidden-Venom; chmod +x *; bash setup</code></li>
+<li><code> apt update; apt upgrade; pkg install python -y; pkg install git -y; git clone https://github.com/Fugitif-vector/Hidden-Venom; cd Hidden-Venom; chmod +x *; bash setup.sh</code></li>
 
 ### [+] Usage
 Once installed, u can run Hidden-Venom from any repository with the single command <code>hvenom</code>.<br>
